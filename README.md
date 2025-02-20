@@ -1,6 +1,7 @@
 # 💰 Analysing International Debt Statistics
 #### 📍 Tools Used: SQL
 #### 📌 Dataset Source: World Bank via DataCamp
+#### 📂 Dashboard Link: [View Here](https://www.datacamp.com/datalab/w/83e47419-4aec-4d29-b829-5f0f2538e291/edit#9041cd2e-a5a6-44dd-acd9-4daae006c067)
 
 ## 📌 Project Goal
 As humans take on debts to manage necessities, countries take on debt to manage their economy. This allows the provision of infrastructure required for a country's citizens to lead comfortable lives. This project examines the international debt burden across various countries, focusing on economic reliance on external loans. The aim is to answer these questions:
